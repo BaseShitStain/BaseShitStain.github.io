@@ -4,8 +4,8 @@
   /* Themes */
   --text-dm-site-title: #B71C1C;
   --text-dm-primary: #B71C1C;
-  --text-dm-secondary: #d4adad;
-  --dm-contrast: #fbff45;
+  --text-dm-secondary: #B71C1C;
+  --dm-contrast: #fafaf5;
   --bg-dm-primary: #130202;
   --bg-dm-secondary: #1c0b0b;
   /* Other vars */
@@ -29,7 +29,7 @@
 html,
 body {
   color: var(--text-dm-secondary);
-  background-color: var(--bg-dm-primary);
+  background-color: var(#b1c7cc);
   font-family: "Montserrat", sans-serif;
   line-height: 2rem;
 }
