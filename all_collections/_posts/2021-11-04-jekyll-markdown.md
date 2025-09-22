@@ -1,5 +1,7 @@
 ---
-![Fees](Https://BaseShitStain.github.io/Web Picture.png) 
+layout: post
+thumbnail: "[Https://BaseShitStain.github.io/Web Picture.png]"
+
 ---
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`
@@ -114,4 +116,5 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+
 
