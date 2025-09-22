@@ -1,5 +1,5 @@
 name: SHITSTAIN
-dp: BaseShitStain.github.io/Main.png
+dp: https://BaseShitStain.github.io/Main.png
 description: "
   <p>
     CA: 0xE4b714bE67bA341C1326e91A59fBEFa78C54bCA9  </p>
@@ -15,4 +15,5 @@ contact:
     url: https://twitter.com/iamsharadraj
   - title: email
     url: BaseShitStain@gmail.com
+
 
