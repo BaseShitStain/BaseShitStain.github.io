@@ -8,8 +8,9 @@ description: "
   </p>
     
   <br/>
+  <br/>
   <p>
-   BUY NOW on <a href='https://app.uniswap.org/swap?chain=base&inputCurrency=NATIVE&outputCurrency=0xe4b714be67ba341c1326e91a59fbefa78c54bca9' target='_blank'>UNISWAP</a>
+   <a href='https://app.uniswap.org/swap?chain=base&inputCurrency=NATIVE&outputCurrency=0xe4b714be67ba341c1326e91a59fbefa78c54bca9' target='_blank'>BUY NOW ON UNISWAP</a>
   </P>
 "
 email: baseshitstain@gmail.com
@@ -20,6 +21,7 @@ contact:
   - title: telegram
     url: https://t.me/ShitStainingBase
   
+
 
 
 
