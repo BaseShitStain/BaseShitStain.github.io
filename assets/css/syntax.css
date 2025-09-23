@@ -1,10 +1,10 @@
-@import url("https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,200;0,400;0,800;1,100;1,400;1,700&display=swap");
+@import url("BaseShitStain.github.io/fonts/Worktalk.otf");
 
 code,
 code *,
 pre,
 pre * {
-  font-family: "JetBrains Mono", monospace;
+  font-family: "WorkTalk", monospace;
 }
 
 /* syntax */
@@ -248,3 +248,4 @@ pre * {
   color: #0086f7;
   font-weight: bold;
 } /* Literal.Number.Integer.Long */
+
