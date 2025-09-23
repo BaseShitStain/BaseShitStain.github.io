@@ -9,9 +9,7 @@ description: "
   
   <br/>
   <p>
-   BUY NOW on <a href='https://app.uniswap.org/swap?chain=base&inputCurrency=NATIVE&outputCurrency=0xe4b714be67ba341c1326e91a59fbefa78c54bca9'target='_blank'>UNISWAP</a>   
-   <p>
-   ![Fees](Https://BaseShitStain.github.io/assets/images/WebPicture.png)
+   BUY NOW on <a href='https://app.uniswap.org/swap?chain=base&inputCurrency=NATIVE&outputCurrency=0xe4b714be67ba341c1326e91a59fbefa78c54bca9'target='_blank'>UNISWAP</a>
   </P>
 "
   - title: uniswap-uni-icon
@@ -21,6 +19,7 @@ description: "
   - title: telegram
     url: https://t.me/ShitStainingBase
   
+
 
 
 
