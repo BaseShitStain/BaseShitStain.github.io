@@ -63,8 +63,8 @@ header .site-title {
 }
 /* #bio-avatar-wrapper {} */
 #bio-avatar {
-  width: 230px;
-  border-radius: 50%;
+  width: 250px;
+  border-radius: 60%;
 }
 /* #bio-text-and-social-links {} */
 #bio-text {
@@ -106,7 +106,7 @@ header .site-title {
   grid-template-columns: none;
   grid-template-rows: 1fr;
   row-gap: 3rem;
-  margin-bottom: 3rem;
+  margin-bottom: 1rem;
 }
 
 .article {
@@ -154,7 +154,7 @@ header .site-title {
 .article-categories {
   margin-top: 0.2rem;
   display: flex;
-  gap: 1rem;
+  gap: .5rem;
 }
 
 .article-category {
