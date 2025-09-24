@@ -1,11 +1,15 @@
-@import url("https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,200;0,400;0,800;1,100;1,400;1,700&display=swap");
-
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Wet+Paint&display=swap');
+</style>
 code,
 code *,
 pre,
-pre * {
-  font-family: "JetBrains Mono", monospace;
+pre * .rubik-wet-paint-regular {
+  font-family: "Rubik Wet Paint", system-ui;
+  font-weight: 400;
+  font-style: normal;
 }
+
 
 /* syntax */
 
@@ -248,3 +252,4 @@ pre * {
   color: #0086f7;
   font-weight: bold;
 } /* Literal.Number.Integer.Long */
+
