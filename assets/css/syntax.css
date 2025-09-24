@@ -1,10 +1,10 @@
-@import url("https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,200;0,400;0,800;1,100;1,400;1,700&display=swap");
+@import url("https://https://fonts.googleapis.com/css2?family=Rubik+Wet+Paint,wght@0,200;0,400;0,800;1,100;1,400;1,700&display=swap");
 
 code,
 code *,
 pre,
 pre * {
-  font-family: "JetBrains Mono", monospace;
+  font-family: "Rubik Wet Paint", system-ui;
 }
 
 /* syntax */
@@ -248,3 +248,4 @@ pre * {
   color: #0086f7;
   font-weight: bold;
 } /* Literal.Number.Integer.Long */
+
