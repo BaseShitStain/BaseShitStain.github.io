@@ -1,7 +1,5 @@
 title: BASE SHITSTAIN
 markdown: kramdown
-# url: ""
-# baseurl: "/jekyll-theme-material-you"
 
 # for atom feed
 author:
@@ -26,4 +24,5 @@ defaults:
       layout: "post"
       permalink: /posts/:title/
 exclude: ["sitemap.xml", "feed.xml", "LICENSE", "README.md"]
+
 
