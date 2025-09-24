@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;0,900;1,300;1,400;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Rubik+Wet+Paint,wght@0,300;0,400;0,900;1,300;1,400;1,900&display=swap");
 
 :root {
   /* Themes */
@@ -13,7 +13,7 @@
 }
 
 * {
-  font-family: inherit;
+  font-family: "Rubik Wet Paint";
   text-decoration: none;
   margin: 0;
   padding: 0;
